@@ -1,2 +1,2 @@
 # Rolling-a-ball
-rolling ball algorithm by c++
+rolling a ball algorithm by c++
